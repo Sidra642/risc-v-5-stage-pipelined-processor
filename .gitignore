@@ -1,0 +1,19 @@
+# Compiled simulation outputs
+build/
+*.vvp
+*.vcd
+*.fst
+*.lxt
+*.log
+
+# FPGA tool-generated files
+*.jou
+*.wdb
+*.wcfg
+*.bit
+*.bin
+*.dcp
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
